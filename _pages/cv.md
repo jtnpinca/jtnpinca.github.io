@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical Engineering, The City College of New York, 2027 (expected)
+* M.S. in Chemistry, Villanova University, 2022
+* B.S. in Chemical Engineering, New Jersey Institute of Technology, 2018
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present: Graduate Research Assistant
+  * The City College of New York
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2022: Graduate Assistant
+  * Villanova University
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 - 2016: Undergraduate Researcher
+  * New Jersey Institute of Technology
+
   
-Skills
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018 - 2019: Regulatory Specialist
+  * UPL NA Inc.
 
 Publications
 ======
