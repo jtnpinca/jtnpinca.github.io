@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Justin R. Pinca"
 title_separator          : "-"
 name                     : &name "Justin R. Pinca"
-description              : &description "Ph.D. Chemical Engineering Student at The City College of New York"
+description              : &description "Ph.D. Candidate in Chemical Engineering at The City College of New York"
 url                      : https://jtnpinca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jtnpinca/jtnpinca.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Justin R. Pinca"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Ph.D. Chemical Engineering Student at The City College of New York"
-  location         : "New York metropolitan area"
+  location         : "New York Metropolitan Area"
   employer         : "The City College of New York"
   uri              : # URL
   email            : "jtnpinca@gmail.com" 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "pincajustin"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
