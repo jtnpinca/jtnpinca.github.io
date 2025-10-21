@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - Phys. Chem. Lab I"
 collection: teaching
 type: "CHM3405 - Physical Chem Lab I"
 permalink: /teaching/2021-spring-teaching-1
@@ -13,4 +13,4 @@ Responsibilities
 ======
 * Adapted experiments for COVID restrictions and provided support
 * Compiled chemical safety profiles for all experiments to be readily available
-* Prepared stock solutions and built experiment setups
+* Prepared stock solutions and built experiment setups for several sections

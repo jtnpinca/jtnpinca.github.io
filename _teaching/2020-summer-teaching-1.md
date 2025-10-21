@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer/Teaching Assistant"
+title: "Guest Lecturer/Teaching Assistant - Gen. Chem. Lecture I"
 collection: teaching
 type: "CHM1131 - General Chemistry I"
 permalink: /teaching/2020-summer-teaching-1

@@ -1,5 +1,5 @@
 ---
-title: "Lab Technician/Teaching Assistant"
+title: "Lab Technician/Teaching Assistant - Phys. Chem. Lab"
 collection: teaching
 type: "CHEM236 - Physical Chemistry Lab for Chem. Engr."
 permalink: /teaching/2017-fall-teaching-1

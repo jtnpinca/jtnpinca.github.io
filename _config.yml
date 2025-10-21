@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Justin R. Pinca"
+title                    : "J.R. Pinca"
 title_separator          : "-"
 name                     : &name "Justin R. Pinca"
 description              : &description "Ph.D. Candidate in Chemical Engineering at The City College of New York"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Justin R. Pinca"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Ph.D. Chemical Engineering Student at The City College of New York"
+  bio              : "Ph.D. Candidate - Chem. Engineering at The City College of New York"
   location         : "New York Metropolitan Area"
   employer         : "The City College of New York"
   uri              : # URL

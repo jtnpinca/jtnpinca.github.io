@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemical Engineering, The City College of New York, 2027 (expected)
+* Ph.D. in Chemical Engineering, The City College of New York, 2027 (expected)
+* M.Phil. in Chemical Engineering, The City College of New York, 2025
 * M.S. in Chemistry, Villanova University, 2022
 * B.S. in Chemical Engineering, New Jersey Institute of Technology, 2018
 
 Research Experience
 ======
-* 2022 - Present: Graduate Research Assistant
-  * The City College of New York
-
-* 2020 - 2022: Graduate Assistant
-  * Villanova University
-
-* 2015 - 2016: Undergraduate Researcher
-  * New Jersey Institute of Technology
+* Graduate Research Assistant, The City College of New York, New York, NY, 2022–Present
+	* Department of Chemical Engineering, Advisor: Ilona Kretzschmar
+*	Graduate Assistant, Villanova University, Villanova, PA, 2020–2022
+	* Department of Chemistry, Advisor: Ryan Jorn
+*	Undergraduate Researcher, New Jersey Institute of Technology, Newark, NJ, 2015–2016
+	*	Department of Chemical, Biological, and Pharmaceutical Engineering, Advisor: Joseph W. Bozzelli
 
   
 Professional Experience
 ======
-* 2018 - 2019: Regulatory Specialist
-  * UPL NA Inc.
+* Regulatory Specialist, *UPL NA Inc.*, King of Prussia, PA, 2018–2019
+* Product Stewardship Intern, *Solvay S.A.*, Princeton, NJ, 2018
+* EHS Physico-Chemical Data Intern, *Solvay S.A.*, Bristol, NJ,	2017–2018	
 
 Publications
 ======
@@ -52,4 +52,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* CREST IDEALS Frontiers in Low-Dimensional Materials Symposium	Planning Committee, 2025
+* CCNY Chem Eng Grad Student Council - Seminar Chair, 2024
+* BioBus Harlem - Teaching Volunteer, 2024–Present
+* Association of Filipino Scientists in America	- Documentation Committee Head, 2021
+* CCNY American Institute of Chemical Engineers	- Chem-E Car Graduate Student Collaborator, 2023-2024
+

@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - Gen. Chem. Lab II"
 collection: teaching
 type: "CHM1104 - General Chemistry Lab II"
 permalink: /teaching/2020-spring-teaching-1

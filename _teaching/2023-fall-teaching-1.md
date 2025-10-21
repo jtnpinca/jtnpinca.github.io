@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - Chem. Eng. Thermo. II"
 collection: teaching
 type: "CHE33000 - Thermodynamics II"
 permalink: /teaching/2023-fall-teaching-1

@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - Transport Ops. Lecture & Lab"
 collection: teaching
 type: "CHE34600 - Transport Operations Lecture & Lab"
 permalink: /teaching/2024-spring-teaching-1
