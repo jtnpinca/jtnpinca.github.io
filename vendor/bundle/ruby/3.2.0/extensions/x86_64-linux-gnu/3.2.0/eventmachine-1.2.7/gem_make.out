@@ -1,0 +1,19 @@
+current directory: /home/jtnpinca/Projects/jtnpinca.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/jtnpinca/Projects/jtnpinca.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260816-16134-fu4ooo sitelibdir\=./.gem.20260816-16134-fu4ooo clean
+
+current directory: /home/jtnpinca/Projects/jtnpinca.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260816-16134-fu4ooo sitelibdir\=./.gem.20260816-16134-fu4ooo
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/jtnpinca/Projects/jtnpinca.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260816-16134-fu4ooo sitelibdir\=./.gem.20260816-16134-fu4ooo install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260816-16134-fu4ooo
+
+current directory: /home/jtnpinca/Projects/jtnpinca.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260816-16134-fu4ooo sitelibdir\=./.gem.20260816-16134-fu4ooo clean
